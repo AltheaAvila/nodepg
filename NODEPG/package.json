@@ -1,0 +1,20 @@
+{
+  "name": "NODEPG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js",
+    "avila-prob1":"node avila-prob1.js",
+    "avila-prob2":"node avila-prob2.js",
+    "avila-prob3":"node avila-prob3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
